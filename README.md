@@ -1,2 +1,7 @@
 # Responsive-registration-form
-Responsive user registration form
+
+**Description**
+This is a basic responsive registration form 
+
+made with HTML and CSS..
+
